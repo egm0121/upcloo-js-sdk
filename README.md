@@ -1,7 +1,7 @@
 #upcloo-js-sdk
 
 UpCloo JavaScript library
-
+(updated repo: upcloo/upcloo-js-sdk)
 ## Snippet
 
 ```html
